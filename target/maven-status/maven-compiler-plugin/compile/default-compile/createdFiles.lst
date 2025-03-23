@@ -1,0 +1,6 @@
+com/accesadades/botiga/Service/ProductServiceImpl.class
+com/accesadades/botiga/Model/Product.class
+com/accesadades/botiga/Controller/WebController.class
+com/accesadades/botiga/Service/ProductService.class
+com/accesadades/botiga/Repository/ProductRepository.class
+com/accesadades/botiga/BotigaApplication.class
